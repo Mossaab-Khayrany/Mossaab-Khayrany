@@ -1,8 +1,8 @@
 ## 👨🏻‍💻 Mossaab Khayrany
 
-**`I'm a Mechanic, of data (python & powerBI Developer | Creator | Technology enthusiast)`**
+**`I'm a Mechanic, of data (python developer | data analyst )`**
 
-I'm a data analyst with a background in mathematics and computer science. I like web applications  in particular and the logic behind them, how data flows from one place to an other, and more interestignly, how all of that impacts decisions, politics, finance etc... i gained full-stack skills during the past 2 years, providing me with a comprehensive understanding of the data's lifecycle. I enjoy building data pipelines, orchestrating workflows, and creating insightful dashboards. Additionally, I enjoy sharing my knowledge through video content, aiming to help others by making complex topics more accessible. Welcome to my GitHub profile.
+I'm a data analyst with a background in mathematics and computer science. I enjoy building data pipelines, orchestrating workflows, and creating insightful dashboards. Additionally, I enjoy sharing my knowledge through video content, aiming to help others by making complex topics more accessible. Welcome to my GitHub profile.
 
 ---
 
