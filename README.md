@@ -1,6 +1,6 @@
 ## 👨🏻‍💻 Mossaab Khayrany
 
-**`I'm a Mechanic, of data (python developer | data analyst )`**
+**`I'm a Mechanic, of data (python developer | full stack data analyst )`**
 
 I'm a data analyst with a background in mathematics and computer science. I enjoy building data pipelines, orchestrating workflows, and creating insightful dashboards. Additionally, I enjoy sharing my knowledge through video content, aiming to help others by making complex topics more accessible. Welcome to my GitHub profile.
 
